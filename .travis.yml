@@ -1,4 +1,4 @@
 language: bash
 
 script:
-    - ymarfer.sh
+    - bash ymarfer.sh
